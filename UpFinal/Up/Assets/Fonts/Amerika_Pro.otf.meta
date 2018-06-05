@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af44e163266a1d1448d2fc9eafc9b03c
+timeCreated: 1526205714
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amerika Pro
+  fontNames:
+  - Amerika Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

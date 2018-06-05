@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TextScoreboard
+    uniqueID: 3896426717
+    locked: 0
+  - name: Character
+    uniqueID: 267195191
+    locked: 0
+  - name: Platform
+    uniqueID: 3742000841
+    locked: 0
+  - name: end_game
+    uniqueID: 2094084397
+    locked: 0
+  - name: Replay
+    uniqueID: 3067476717
+    locked: 0

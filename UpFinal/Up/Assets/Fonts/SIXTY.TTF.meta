@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 684a6dfb6ba8790419dc259d6d07bcae
+timeCreated: 1524558598
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sixty
+  fontNames:
+  - Sixty
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
